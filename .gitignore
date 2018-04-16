@@ -1,0 +1,13 @@
+.terraform
+*.swp
+*.swo
+*.tfstate
+*.tfstate.backup
+*.info
+terraform/data.tf
+terraform/id_rsa*
+terraform/hosts_file
+terraform.tfvars
+*.tfvars
+plan
+*.pem
